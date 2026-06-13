@@ -20,6 +20,7 @@ Commentary/
 
 2.run
 pip install pyftg loguru numpy sentencepiece
+
 pip install transformers==4.30.0
 
 3.Install the PyTorch version that matches your CUDA environment.
