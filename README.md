@@ -41,5 +41,7 @@ Common Arguments:
 
 6.Subtitle Overlay Guide
 Upon running the script, a black semi-transparent bar will appear on your screen.
+
 Click and drag this bar to a suitable position over your FightingICE game window (e.g., just below the health bars).
+
 The UI will automatically display the generated commentary in real-time and clear itself after 5 seconds of inactivity.
