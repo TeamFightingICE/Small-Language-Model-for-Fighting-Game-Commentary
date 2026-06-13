@@ -12,6 +12,7 @@ Commentary/
 ├── checkpoint/                   # Directory for T5 model weights (model.pt)
 ├── BlackMamba/ZEN/normal/        # Directory for BlackMamba network weights (.csv)
 └── blackmambarecord/             # Auto-generated combat frame records
+```
 
-##How to run?
+How to run?
 Make sure you have a GPU(Nvidia) and linux enviroment.
