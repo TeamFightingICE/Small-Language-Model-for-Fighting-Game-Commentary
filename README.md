@@ -14,6 +14,8 @@ Commentary/
 └── blackmambarecord/             # Auto-generated combat frame records
 ```
 
+demo.mp4 is our demo video.
+
 ### How to run?
 
 1.Make sure you have a GPU(Nvidia) and linux enviroment. (Python 3.11)
