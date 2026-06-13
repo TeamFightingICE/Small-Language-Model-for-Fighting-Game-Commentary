@@ -22,27 +22,20 @@ Commentary/
 pip install pyftg loguru numpy sentencepiece
 pip install transformers==4.30.0
 
-3.
-Install the PyTorch version that matches your CUDA environment.
+3.Install the PyTorch version that matches your CUDA environment.
 
-4.
-Ensure the FightingICE Java server is running and listening on 127.0.0.1:31415
+4.Ensure the FightingICE Java server is running and listening on 127.0.0.1:31415
 
-5.
-Start the combat and commentary system:  python real_ftg_launcher.py --games 3 --opponent RandomAI
+5.Start the combat and commentary system:  python real_ftg_launcher.py --games 3 --opponent RandomAI
 
 Common Arguments:
-
 --games: Number of matches to play (default: 5).
 --opponent: Opponent AI name (e.g., RandomAI, MctsAi23i).
 --character: Character to use (default: ZEN).
 --device: Compute device to use (cuda or cpu).
 --no-commentary: Disable real-time commentary and the UI overlay.
 
-6.
-Subtitle Overlay Guide
+6.Subtitle Overlay Guide
 Upon running the script, a black semi-transparent bar will appear on your screen.
-
 Click and drag this bar to a suitable position over your FightingICE game window (e.g., just below the health bars).
-
 The UI will automatically display the generated commentary in real-time and clear itself after 5 seconds of inactivity.
