@@ -19,6 +19,7 @@ Commentary/
 1.Make sure you have a GPU(Nvidia) and linux enviroment. (Python 3.11)
 
 2.run
+
 pip install pyftg loguru numpy sentencepiece
 
 pip install transformers==4.30.0
