@@ -30,9 +30,13 @@ pip install transformers==4.30.0
 
 Common Arguments:
 --games: Number of matches to play (default: 5).
+
 --opponent: Opponent AI name (e.g., RandomAI, MctsAi23i).
+
 --character: Character to use (default: ZEN).
+
 --device: Compute device to use (cuda or cpu).
+
 --no-commentary: Disable real-time commentary and the UI overlay.
 
 6.Subtitle Overlay Guide
