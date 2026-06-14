@@ -14,7 +14,7 @@ Commentary/
 └── blackmambarecord/             # Auto-generated combat frame records
 ```
 
-demo.mp4 is our demo video.
+"Playlist of demo videos: https://www.youtube.com/playlist?list=PLwrbb0kRyPskxcScdysXd_6vitiVC29Vl"
 
 ### How to run?
 
